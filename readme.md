@@ -66,9 +66,9 @@
 > 3. 数据集
 >    + Visual Relationship Detection
 >    + Visual Genome
-> 4. 模型框架
->   ![模型框架图](图床库/4模型框架图.jpg)
->   ![模型框架图](图床库/4网络结构图.jpg)
+> 4. 模型框架  
+>   ![模型框架图](图床库/4模型框架图.jpg)  
+>   ![网络架构图](图床库/4网络结构图.jpg)
 > 5. 开源地址
 >   https://github.com/yikang-li/FactorizableNet
 > 6. 总结
