@@ -57,8 +57,10 @@
 
 ##  Factorizable Net: An Efficient Subgraph-based Framework for Scene Graph Generation(ECCV 2018)
 > 1. 采用的方法：
->    + 对Object detection, scene graph generation and region captioning,三个任务进行联合训练，来提供额外信息
->    + Multi-level Scene Description Network (MSDN)
+>    + 基于子图的连接图
+>    + 自下而上的聚类方法
+>    + 空间加权消息传递(SMP)结构
+>    + 空间敏感的关系推断(SRI)模块
 > 2. 评估指标
 >    + Phrase Detection (PhrDet)
 >    + Scene Graph Generation (SGGen) 
